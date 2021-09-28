@@ -1,0 +1,6 @@
+name: Easy4DChest
+main: com.amagames.easy4dchest.Easy4DChest
+version: 1.1.0
+api-version: 1.13
+commands:
+  easy4d:
